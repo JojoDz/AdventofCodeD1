@@ -1,0 +1,9 @@
+Depuis une liste donnée :
+-quel 2 chiffres additionnés = 2020
+-ensuite : les multiplier ensembles
+
+1) mettre les chiffres données dans un tableau
+2) parcourir la liste 
+3) chiffre 1 + chiffre 2 === 2020
+4) si c'est le cas :
+   chiffre 1 * chiffre 2
